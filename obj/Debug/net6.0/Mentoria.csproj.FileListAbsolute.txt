@@ -1,0 +1,15 @@
+C:\Users\Marina\Documents\DIO\Mentoria\src\bin\Debug\net6.0\Mentoria.exe
+C:\Users\Marina\Documents\DIO\Mentoria\src\bin\Debug\net6.0\Mentoria.deps.json
+C:\Users\Marina\Documents\DIO\Mentoria\src\bin\Debug\net6.0\Mentoria.runtimeconfig.json
+C:\Users\Marina\Documents\DIO\Mentoria\src\bin\Debug\net6.0\Mentoria.dll
+C:\Users\Marina\Documents\DIO\Mentoria\src\bin\Debug\net6.0\Mentoria.pdb
+C:\Users\Marina\Documents\DIO\Mentoria\src\obj\Debug\net6.0\Mentoria.csproj.AssemblyReference.cache
+C:\Users\Marina\Documents\DIO\Mentoria\src\obj\Debug\net6.0\Mentoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Documents\DIO\Mentoria\src\obj\Debug\net6.0\Mentoria.AssemblyInfoInputs.cache
+C:\Users\Marina\Documents\DIO\Mentoria\src\obj\Debug\net6.0\Mentoria.AssemblyInfo.cs
+C:\Users\Marina\Documents\DIO\Mentoria\src\obj\Debug\net6.0\Mentoria.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Documents\DIO\Mentoria\src\obj\Debug\net6.0\Mentoria.dll
+C:\Users\Marina\Documents\DIO\Mentoria\src\obj\Debug\net6.0\refint\Mentoria.dll
+C:\Users\Marina\Documents\DIO\Mentoria\src\obj\Debug\net6.0\Mentoria.pdb
+C:\Users\Marina\Documents\DIO\Mentoria\src\obj\Debug\net6.0\Mentoria.genruntimeconfig.cache
+C:\Users\Marina\Documents\DIO\Mentoria\src\obj\Debug\net6.0\ref\Mentoria.dll
